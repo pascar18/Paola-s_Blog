@@ -1,14 +1,14 @@
 {
     "collab_server" : "",
-    "contents" : "---\ntitle: \"An insight on GDP and Happiness\"\nauthor: \"Paola Scaramuzzi\"\ndate: '2017-07-03'\nslug: an-insight-on-gdp-and-happiness-in-plain-markdown\ntags:\n- GDP\n- Happiness\n- Ranking\ncategories: []\n---\n\n\nIn this post I would like to discuss about the relation of national Gross Domestic Product and happiness. Below I have visualised data through a scatterplot, which pictures this relation by continent.\n\n\nBefore starting with our analysis, please access the full dataset by clicking on the following link https://www.kaggle.com/unsdsn/world-happiness\n\n\n\n\n\n",
+    "contents" : "---\ntitle: \"An insight on GDP and Happiness\"\nauthor: \"Paola Scaramuzzi\"\ndate: '2017-07-03'\nslug: an-insight-on-gdp-and-happiness-in-plain-markdown\ntags:\n- GDP\n- Happiness\n- Ranking\ncategories: []\n---\n\n\n\nIn this post I would like to discuss about the relation of national Gross Domestic Product and happiness. Below I have visualised data through a scatterplot, which pictures this relation by continent.\n\n\nBefore starting with our analysis, please access the full dataset by clicking on the following link https://www.kaggle.com/unsdsn/world-happiness\n\n\n\n\n\n",
     "created" : 1499079546555.000,
     "dirty" : true,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1720472621",
+    "hash" : "3675773963",
     "id" : "AD7B2EBE",
     "lastKnownWriteTime" : 1499079566,
-    "last_content_update" : 1499079728173,
+    "last_content_update" : 1499083030729,
     "path" : "C:/Users/Paola/Desktop/iX Data Science/Paola's_Blog/content/post/2017-07-03-an-insight-on-gdp-and-happiness-in-plain-markdown.md",
     "project_path" : "content/post/2017-07-03-an-insight-on-gdp-and-happiness-in-plain-markdown.md",
     "properties" : {
