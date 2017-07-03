@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: My journey in South Africa\nauthor: ~\ndate: '2017-07-03'\nslug: second-new-post-in-r-markdown\ncategories: []\ntags: [\"South Africa\",\"Cape Town\", \"iXperience\"]\n---\n\n",
+    "created" : 1499079590053.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1829800665",
+    "id" : "D3550C6C",
+    "lastKnownWriteTime" : 1499077230,
+    "last_content_update" : 1499077230,
+    "path" : "C:/Users/Paola/Desktop/iX Data Science/Paola's_Blog/content/post/2017-07-03-second-new-post-in-r-markdown.Rmd",
+    "project_path" : "content/post/2017-07-03-second-new-post-in-r-markdown.Rmd",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
