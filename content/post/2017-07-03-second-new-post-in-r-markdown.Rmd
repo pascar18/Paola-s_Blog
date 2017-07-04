@@ -16,4 +16,4 @@ Data visualization is the presentation of data in a pictorial or graphical forma
 
 Observe the plot below
 
-![](/img/Rplot.jpeg)
+![](/img/Rplot.jpeg) 
