@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>A visualisation of data</title>
+      <link>/2017/07/second-new-post-in-r-markdown/</link>
+      <pubDate>Mon, 03 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/07/second-new-post-in-r-markdown/</guid>
+      <description>The importance of visualisationData visualization is the presentation of data in a pictorial or graphical format. It enables decision makers to see analytics presented visually, so they can grasp difficult concepts or identify new patterns. With interactive visualization, you can take the concept a step further by using technology to drill down into charts and graphs for more detail, interactively changing what data you see and how it’s processed.</description>
+    </item>
+    
+    <item>
       <title>An insight on GDP and Happiness</title>
       <link>/2017/07/an-insight-on-gdp-and-happiness-in-plain-markdown/</link>
       <pubDate>Mon, 03 Jul 2017 00:00:00 +0000</pubDate>
@@ -19,15 +28,6 @@
       <guid>/2017/07/an-insight-on-gdp-and-happiness-in-plain-markdown/</guid>
       <description>In this post I would like to discuss about the relation of national Gross Domestic Product and happiness. Below I have visualised data through a scatterplot, which pictures this relation by continent.
 Before starting with our analysis, please access the full dataset by clicking on the following link https://www.kaggle.com/unsdsn/world-happiness</description>
-    </item>
-    
-    <item>
-      <title>My journey in South Africa</title>
-      <link>/2017/07/second-new-post-in-r-markdown/</link>
-      <pubDate>Mon, 03 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/2017/07/second-new-post-in-r-markdown/</guid>
-      <description></description>
     </item>
     
     <item>

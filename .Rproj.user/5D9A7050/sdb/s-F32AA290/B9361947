@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "themes/\npublic/",
+    "created" : 1499151050653.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "916564378",
+    "id" : "B9361947",
+    "lastKnownWriteTime" : 1499080096,
+    "last_content_update" : 1499151081707,
+    "path" : "C:/Users/Paola/Desktop/iX Data Science/Paola's_Blog/.gitignore",
+    "project_path" : ".gitignore",
+    "properties" : {
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "gitignore"
+}

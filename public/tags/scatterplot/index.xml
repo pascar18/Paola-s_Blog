@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gdp on Hugo tranquilpeak theme</title>
-    <link>/tags/gdp/</link>
-    <description>Recent content in Gdp on Hugo tranquilpeak theme</description>
+    <title>Scatterplot on Hugo tranquilpeak theme</title>
+    <link>/tags/scatterplot/</link>
+    <description>Recent content in Scatterplot on Hugo tranquilpeak theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 03 Jul 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/gdp/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/scatterplot/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,16 +18,6 @@
       
       <guid>/2017/07/second-new-post-in-r-markdown/</guid>
       <description>The importance of visualisationData visualization is the presentation of data in a pictorial or graphical format. It enables decision makers to see analytics presented visually, so they can grasp difficult concepts or identify new patterns. With interactive visualization, you can take the concept a step further by using technology to drill down into charts and graphs for more detail, interactively changing what data you see and how it’s processed.</description>
-    </item>
-    
-    <item>
-      <title>An insight on GDP and Happiness</title>
-      <link>/2017/07/an-insight-on-gdp-and-happiness-in-plain-markdown/</link>
-      <pubDate>Mon, 03 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/2017/07/an-insight-on-gdp-and-happiness-in-plain-markdown/</guid>
-      <description>In this post I would like to discuss about the relation of national Gross Domestic Product and happiness. Below I have visualised data through a scatterplot, which pictures this relation by continent.
-Before starting with our analysis, please access the full dataset by clicking on the following link https://www.kaggle.com/unsdsn/world-happiness</description>
     </item>
     
   </channel>
